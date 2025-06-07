@@ -1,0 +1,5 @@
+ultralytics
+opencv-python
+gradio==3.50.2
+pydantic==1.10.12
+
